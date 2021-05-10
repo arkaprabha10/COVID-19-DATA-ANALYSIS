@@ -1,0 +1,63 @@
+1. 5 COUNTRIES taken : India, Israel, NZ ,USA and Italy
+2. For total cases per million we observe :
+	a. Israel is the highest due to herd immunity
+	b. New Zealand is the least because of extremely low infections
+	C. Worrisome for India and USA bcause high values as compared to poulation
+3. Similar trend for new cases per million. India is rising now
+4. For total cases USA and India surprass by a huge margin due to high population and bad control
+4. New cases per day - Ideally a peak and die out. But here we have multiple peaks because infected not 0
+	a. India is rising at a huge pace
+	b. Italy has a late peak beacause govt measures before but people flouted so a lag
+	c. USA has multiple peaks because everytime it managed to control, restrictions lifted
+
+5. Due to excessive rule flouting and low idea in regards to how we control covid, Italy registered high deaths per million
+	a. India may have low per million number but has exccessively high population density
+
+6. For new deaths:
+	a. USA has 3 peaks each correspoding to the rise in new cases with some time lag.
+	b. 2 peaks for italy
+	c. One major peak for India and another on its way
+	d. Israel also had 2 major peaks in deaths per million
+
+7. Stringency Index Analysis :
+	a. In NZ high stringency before it spread and low thereafter
+	b. India had high stringency after a shot while (spread then), and onec it was eased cases rose exponentially
+	c. Israel followed a protocol similar to NZ but after a while
+	d. USA high stringency index but not effective
+	e. Italy cases rose once the index was lowered significantly
+
+8. NZ best performer because one of the first countries to apply international travel restrictions before it even spread
+	a. Italy and Israel also did these but after the pandemic inception
+	b. NZ didnt have internal restrictions after that because the pandemic was not native to it
+	c. India and USA put serious measures but after the inception of the pandemic
+	d. Italy's inital severe measures helped control it but quicly relaxed it
+
+
+9. Reproduction Number (done for India) :
+	a.  Started off high around 1.9. As reporoduction number reached below 1, epidemic can be contained, but value arose quickly again
+	b. Once value is below cases/day start to reduce and vice versa
+
+10. Vaccination 
+	a. Vaccine can be used to control the reproduction number a lotby reducing the suscpetible population
+	b. Israel has highest number of vaccinations per million. Combined with herd immunity it acheived good results post vaccination.
+	c. Other countries started very late 
+ 
+
+ 
+Connection-specific DNS Suffix: 
+Description: Intel(R) Dual Band Wireless-AC 3165
+Physical Address: ‎CC-2F-71-DE-32-A8
+DHCP Enabled: Yes
+IPv4 Address: 192.168.0.102
+IPv4 Subnet Mask: 255.255.255.0
+Lease Obtained: 05 May 2021 09:54:04
+Lease Expires: 05 May 2021 22:54:04
+IPv4 Default Gateway: 192.168.0.1
+IPv4 DHCP Server: 192.168.0.1
+IPv4 DNS Server: 192.168.0.1
+IPv4 WINS Server: 
+NetBIOS over Tcpip Enabled: Yes
+Link-local IPv6 Address: fe80::1c66:b50a:4655:f9c0%15
+IPv6 Default Gateway: 
+IPv6 DNS Server: 
+ 
